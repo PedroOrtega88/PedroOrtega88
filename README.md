@@ -11,9 +11,7 @@ Mi experiencia en proyectos complejos me ha equipado para abordar desafíos con 
 ✨ Intereses: ⛺ 🏃 🌄 🍕
 
 Lenguajes
-[image](https://github.com/user-attachments/assets/206eb58b-eead-4990-8d7d-70d78c791931)
-[image](https://github.com/user-attachments/assets/b5414a01-9e07-402a-a0bd-d57ca0cf1089)
-(https://camo.githubusercontent.com/d7d0f5ef713c40161bd3f23076ce9e4efcfeecfabbb8661dba7e9f3971c3fc1f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d4637444631453f7374796c653d666c61742d737175617265266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d626c61636b)
+HTML CSS JAVASCRIPT
 
 Frontend
 React Vite Pug
